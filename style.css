@@ -1,0 +1,55 @@
+body {
+ font-family: "Helvetica Neue";
+ text-align: center; background-color: lightblue;
+}
+
+h1 {
+ color: darkBlue;
+}
+img {
+ border-radius: 10px;
+ margin-top: 8px;
+ margin-left: 2px;
+ margin-right: 2px;
+}
+
+h4
+{
+font-style: Arial;
+ color: blue; 
+}
+p
+{
+  color: darkblue
+}
+
+.coupon {
+ border: solid 5px;
+  
+}
+.coupon {
+  height: 20px;
+  width: 250px;
+  align-content: center;
+}
+.coupon {
+  text-align: center;
+  border-radius: 100px;
+}
+.coupon {
+ align-content: center;
+}
+
+.coupon{
+  padding-right: 10px;
+  padding-left: 16
+}
+h3 {
+  color: red;
+}
+.h5 {
+  width: 350;
+}
+.bdy {
+  background-color: aliceblue;
+}
