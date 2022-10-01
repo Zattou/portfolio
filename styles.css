@@ -1,0 +1,54 @@
+body {
+ font-family: "Helvetica Neue";
+ text-align: center; background-color: lightblue;
+}
+img {
+ border-radius: 10px;
+ margin-top: 8px;
+ margin-left: 2px;
+ margin-right: 2px;
+ box-align: center;
+}
+img {
+  height: 350px;
+  width: 250px
+}
+.learned {
+  height: 50px;
+  width: 380px;
+  background-color: pink;
+  background-size: 380px;
+}
+.learned{
+border-radius: 7px;
+border: solid 2px white;
+}
+.learned {
+  padding: 1px;
+  border: 1px solid black;
+}
+.portof {
+  height: 150px;
+  width: 380px;
+  
+}
+.chirp {
+text-align: left;
+}
+.homef {
+  text-align: left;
+}
+.trace {
+  text-align: left;
+  
+}
+h3{
+  padding: 0 0 0 0;
+}
+.divers {
+  text-align: left;
+}
+.mg {
+  width: 300;
+  height: 300;
+}
